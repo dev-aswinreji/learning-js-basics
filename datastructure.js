@@ -12,7 +12,6 @@
 
 // console.log(newStr,'newStr');
 
-
 const num = [4,3,2,9,1,5,8]
 
 function bubbleSort(num){
@@ -76,3 +75,32 @@ let index = binarySearch(num,left=0,right=num.length -1,4)
 console.log(index,'index is here ');
 
 
+
+const obj = {
+    names:"neymar"
+}
+
+
+const {names} = obj
+
+console.log(names,'names is showing here');
+
+const shallowObj = {...obj}
+
+console.log(shallowObj);
+
+const arr = [1,2,3,4]
+
+const [a,b] = arr
+
+console.log(a,b);
+
+const newArr = [...arr]
+
+console.log(newArr);
+
+const fixedSizeArray = new Array(40)
+
+fixedSizeArray[0] = 3
+
+console.log(fixedSizeArray);
