@@ -32,6 +32,10 @@ function bubbleSort(num){
 
 bubbleSort(num)
 
+function insertionSort(){
+    
+}
+
 console.log(num,'sorted');
 
 
@@ -70,3 +74,5 @@ function binarySearch(num,left,right,target){
 
 let index = binarySearch(num,left=0,right=num.length -1,4)
 console.log(index,'index is here ');
+
+
