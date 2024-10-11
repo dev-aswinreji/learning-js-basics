@@ -31,6 +31,7 @@ function bubbleSort(num){
 
 bubbleSort(num)
 
+let left,right;
 function insertionSort(){
     
 }
@@ -52,7 +53,6 @@ function recursiveBinarySearch(num,left,right,target){
         return recursiveBinarySearch(num,middleIndex+1,right,target)
     }
 }
-
 let targetIndex = recursiveBinarySearch(num,left=0,right=num.length-1,11)
 console.log(targetIndex,'targetIndex');
 
@@ -104,3 +104,7 @@ const fixedSizeArray = new Array(40)
 fixedSizeArray[0] = 3
 
 console.log(fixedSizeArray);
+
+// Array methods
+fixedSizeArray.push(3)
+fixedSizeArray.pop()
