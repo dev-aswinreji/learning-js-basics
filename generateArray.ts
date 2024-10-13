@@ -36,5 +36,4 @@ for (const power of powers(2)) {
     break
   }
   console.log(power);
-  
 }
