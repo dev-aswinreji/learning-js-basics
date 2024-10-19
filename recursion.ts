@@ -7,4 +7,3 @@ function recursion(n) {
 }
 
 const data = recursion(1)
-console.log(data,'data is showing');
