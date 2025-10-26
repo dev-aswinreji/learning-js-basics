@@ -86,3 +86,13 @@
 let r = x()
 r()
 
+// Uses of Closures:
+// - Moduel Desing Pattern
+// - Currying
+// - Functions like once 
+// - Memoize 
+// - maintaining state in aysnc world 
+// - setTimemouts
+// - Iterators 
+// - and many more...
+
