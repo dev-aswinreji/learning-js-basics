@@ -1,0 +1,81 @@
+Types of Data Types in JS 
+Two types of data types 
+Primitive and Non-Primitive 
+
+Primitive types are 
+  Number 
+  String 
+  Boolean 
+  Null
+  Undefined
+  Symbol 
+  BigInt
+  
+Non-Primitive
+  Ojbect 
+  Array 
+
+Conditional Statements in JS is used to check the conditions 
+if statement 
+else statement
+if else statement
+switch statement
+
+
+Functions in JS
+
+Functions declaration 
+Named Function Expression
+Arrow Function 
+Anonymous function 
+HOC function
+Constructor Function 
+Generator Function 
+Async function
+Pure function 
+Default parameter function 
+Callback function 
+IIFE
+Recursive Function
+Nested Function
+Rest parameter function
+
+
+
+Looping in JS
+
+for loop 
+while loop 
+do while loop
+
+
+Comments in JS
+Is used to comment out ideas or messages
+// for single line 
+/* */ for multi lne 
+
+
+Operators in JS
+
+Arithemetic Operators
+To do mathematical computation
+
+Assignment Operators
+
+To assign values to variable 
+
+Bitwise Operators
+Do bitwise operations 
+
+Comparison Operators
+To compare the values each other 
+
+Logical Operators
+To check the logic of statement
+
+Ternary Operators
+JS shorthand conditional operator for simple if-else statements 
+
+typeOf Operators
+
+to check the data tuhpe of its operand in the form of string 

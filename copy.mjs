@@ -14,3 +14,6 @@ console.log(obj)
 clObj.some.age= "shallow"
 
 console.log(obj,'bojejejejej')
+
+export const name = "adarsh"
+
