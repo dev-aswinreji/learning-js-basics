@@ -76,15 +76,15 @@
 // Closure
 //
 //
- function x() {
-   var y = 10;
-  return function z(params) {
-   console.log(y,'y') 
-  }
- }
-
-let r = x()
-r()
+//  function x() {
+//    var y = 10;
+//   return function z(params) {
+//    console.log(y,'y') 
+//   }
+//  }
+//
+// let r = x()
+// r()
 
 // Uses of Closures:
 // - Moduel Desing Pattern
